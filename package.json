@@ -1,0 +1,18 @@
+{
+  "name": "glowglam_glowglam_ready_v2",
+  "version": "1.0.0",
+  "description": "GlowGlam - AI-Powered Personal Skincare Assistant (Improved)",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd Server && npm install && npm start",
+    "client": "cd Client && npm install && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

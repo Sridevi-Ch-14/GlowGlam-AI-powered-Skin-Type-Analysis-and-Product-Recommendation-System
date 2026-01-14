@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "category": "Face Wash",
+    "title": "CeraVe Foaming Facial Cleanser",
+    "brand": "CeraVe",
+    "rating": 4.6,
+    "price": 899,
+    "tags": [
+      "Non-Comedogenic",
+      "Fragrance-Free",
+      "Ceramides"
+    ],
+    "image": "https://via.placeholder.com/260x160.png?text=CeraVe+Cleanser",
+    "links": {
+      "amazon": "https://amazon.example/product1",
+      "myntra": "https://myntra.example/product1"
+    }
+  },
+  {
+    "id": 2,
+    "category": "Serum",
+    "title": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "brand": "The Ordinary",
+    "rating": 4.4,
+    "price": 599,
+    "tags": [
+      "Oil Control",
+      "Acne-Safe",
+      "Pore Minimizing"
+    ],
+    "image": "https://via.placeholder.com/260x160.png?text=Niacinamide+Serum",
+    "links": {
+      "amazon": "https://amazon.example/product2"
+    }
+  },
+  {
+    "id": 3,
+    "category": "Moisturizer",
+    "title": "Neutrogena Hydro Boost Gel-Cream",
+    "brand": "Neutrogena",
+    "rating": 4.5,
+    "price": 799,
+    "tags": [
+      "Hyaluronic Acid",
+      "Non-Greasy",
+      "Combination Skin"
+    ],
+    "image": "https://via.placeholder.com/260x160.png?text=Hydro+Boost",
+    "links": {
+      "amazon": "https://amazon.example/product3"
+    }
+  },
+  {
+    "id": 4,
+    "category": "Sunscreen",
+    "title": "La Roche-Posay Anthelios SPF 60",
+    "brand": "La Roche-Posay",
+    "rating": 4.7,
+    "price": 1299,
+    "tags": [
+      "Broad Spectrum",
+      "Non-Greasy",
+      "Sensitive Skin"
+    ],
+    "image": "https://via.placeholder.com/260x160.png?text=Sunscreen",
+    "links": {
+      "amazon": "https://amazon.example/product4"
+    }
+  }
+]

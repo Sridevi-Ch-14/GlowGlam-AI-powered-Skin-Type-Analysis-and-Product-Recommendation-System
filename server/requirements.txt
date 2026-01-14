@@ -1,0 +1,8 @@
+# Pinning to specific versions for a stable production environment
+tensorflow==2.16.1
+keras==3.3.3
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+mtcnn==0.1.1
+Pillow==10.2.0
+h5py==3.10.0
