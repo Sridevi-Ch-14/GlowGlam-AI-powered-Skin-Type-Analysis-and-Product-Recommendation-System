@@ -1,13 +1,6 @@
 # 🌟 GlowGlam - AI-Powered Personal Skincare Assistant
 
 <div align="center">
-
-![GlowGlam](https://img.shields.io/badge/GlowGlam-Skincare%20AI-ff7aa2?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-18+-61dafb?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js)
-
 An intelligent skincare analysis system that uses computer vision and deep learning to analyze skin type from camera input and provides personalized product recommendations.
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [API](#-api-endpoints) • [Contributing](#-contributing)
