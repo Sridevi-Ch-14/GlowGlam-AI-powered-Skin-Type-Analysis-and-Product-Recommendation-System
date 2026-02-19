@@ -13,7 +13,7 @@ An intelligent skincare analysis system that uses computer vision and deep learn
 
 ### 🤖 AI-Powered Skin Analysis
 - **95% Accuracy**: Deep learning model trained on thousands of skin images
-- **GlowGlam - AI-Powered Skin Type Analysis and Product Recommendation System
+- # GlowGlam - AI-Powered Skin Type Analysis and Product Recommendation System
 
 A web-based application that leverages deep learning and computer vision to analyze skin types from facial images and provide personalized skincare product recommendations.
 
